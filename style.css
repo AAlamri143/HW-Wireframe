@@ -5,7 +5,8 @@ body {
     width: 960px;
     font-size: 18px;
 }
-# {  
+.clear{
+    clear: both;
 }
 header {
     width: 80%;
